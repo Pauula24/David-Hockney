@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lexend", sans-serif;
+  
+
+}
+
+body{
+    background-color: beige;
+    padding-top: 65px;
+}
+
+h1 {
+    font-size: 6rem;
+    text-align: center;
+}
+
+.subtitle {
+    margin-top: 40px;
+}
+
+img{
+    margin-top: 60px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
